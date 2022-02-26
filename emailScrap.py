@@ -2,8 +2,6 @@
 """
 Created on Sat Feb 26 14:01:30 2022
 
-@author: Gaurav Mishra
-"""
 import re
 regex = '^[a-z0-9]+[\._]?[a-z0-9]+[@]\w+[.]\w{2,3}$' 
 
